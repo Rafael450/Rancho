@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 83e408d9360d731458b6b0039b5cda86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5664941971407006060
+    second: Chef_Pier_16x16_0
+  - first:
+      213: -2823664329608057252
+    second: Chef_Pier_16x16_1
+  - first:
+      213: 952467636691289664
+    second: Chef_Pier_16x16_2
+  - first:
+      213: 8674842889444607195
+    second: Chef_Pier_16x16_3
+  - first:
+      213: -6827833291393791195
+    second: Chef_Pier_16x16_4
+  - first:
+      213: -8454407489096391269
+    second: Chef_Pier_16x16_5
+  - first:
+      213: -4362764534312059257
+    second: Chef_Pier_16x16_6
+  - first:
+      213: -7311849756804294409
+    second: Chef_Pier_16x16_7
+  - first:
+      213: -1665961779222195002
+    second: Chef_Pier_16x16_8
+  - first:
+      213: 3318191286931330587
+    second: Chef_Pier_16x16_9
+  - first:
+      213: 2709558290952281991
+    second: Chef_Pier_16x16_10
+  - first:
+      213: 1674594185268736120
+    second: Chef_Pier_16x16_11
+  - first:
+      213: -7152825434557743652
+    second: Chef_Pier_16x16_12
+  - first:
+      213: -6049108721469653143
+    second: Chef_Pier_16x16_13
+  - first:
+      213: -3190098015602431814
+    second: Chef_Pier_16x16_14
+  - first:
+      213: -1237848011366819324
+    second: Chef_Pier_16x16_15
+  - first:
+      213: 4301308110290788361
+    second: Chef_Pier_16x16_16
+  - first:
+      213: -7219794967404810787
+    second: Chef_Pier_16x16_17
+  - first:
+      213: 4479876349767287427
+    second: Chef_Pier_16x16_18
+  - first:
+      213: -3808394683250650688
+    second: Chef_Pier_16x16_19
+  - first:
+      213: -8677293233481460553
+    second: Chef_Pier_16x16_20
+  - first:
+      213: 9000335524758291050
+    second: Chef_Pier_16x16_21
+  - first:
+      213: -2601734386243338763
+    second: Chef_Pier_16x16_22
+  - first:
+      213: 1720901818713708827
+    second: Chef_Pier_16x16_23
+  - first:
+      213: 1479714449537317716
+    second: Chef_Pier_16x16_24
+  - first:
+      213: 823800139260275204
+    second: Chef_Pier_16x16_25
+  - first:
+      213: 4791798065596110681
+    second: Chef_Pier_16x16_26
+  - first:
+      213: -4131786230229095378
+    second: Chef_Pier_16x16_27
+  - first:
+      213: -7324449143520301484
+    second: Chef_Pier_16x16_28
+  - first:
+      213: -6545419820738075083
+    second: Chef_Pier_16x16_29
+  - first:
+      213: 903692194964458916
+    second: Chef_Pier_16x16_30
+  - first:
+      213: -746206192486522267
+    second: Chef_Pier_16x16_31
+  - first:
+      213: -518662312330833464
+    second: Chef_Pier_16x16_32
+  - first:
+      213: -4953789537384308820
+    second: Chef_Pier_16x16_33
+  - first:
+      213: 8012711651189442197
+    second: Chef_Pier_16x16_34
+  - first:
+      213: -2940232218585176106
+    second: Chef_Pier_16x16_35
+  - first:
+      213: 8041038505110331905
+    second: Chef_Pier_16x16_36
+  - first:
+      213: -1796314867265806681
+    second: Chef_Pier_16x16_37
+  - first:
+      213: -7581065386025871699
+    second: Chef_Pier_16x16_38
+  - first:
+      213: -6853302396429360539
+    second: Chef_Pier_16x16_39
+  - first:
+      213: -8195253952459697304
+    second: Chef_Pier_16x16_40
+  - first:
+      213: 8349550129434989942
+    second: Chef_Pier_16x16_41
+  - first:
+      213: -7377432464441932045
+    second: Chef_Pier_16x16_42
+  - first:
+      213: -8415531839156813328
+    second: Chef_Pier_16x16_43
+  - first:
+      213: -6442082356581170473
+    second: Chef_Pier_16x16_44
+  - first:
+      213: 1798582579328456843
+    second: Chef_Pier_16x16_45
+  - first:
+      213: 8699494663769099969
+    second: Chef_Pier_16x16_46
+  - first:
+      213: -8167694134348323201
+    second: Chef_Pier_16x16_47
+  - first:
+      213: -7203192429491011116
+    second: Chef_Pier_16x16_48
+  - first:
+      213: -7227141441768930697
+    second: Chef_Pier_16x16_49
+  - first:
+      213: -3383816447714804552
+    second: Chef_Pier_16x16_50
+  - first:
+      213: -3402686167267725374
+    second: Chef_Pier_16x16_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 84
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49695198a451261b0800000000000000
+      internalID: -5664941971407006060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 84
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e25cca04450d8d0800000000000000
+      internalID: -2823664329608057252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 84
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0464a09e448d73d00800000000000000
+      internalID: 952467636691289664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 84
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd44bab85ab336870800000000000000
+      internalID: 8674842889444607195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b03e00cc9ae31a0800000000000000
+      internalID: -6827833291393791195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 49
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e10a9e29ebaa80800000000000000
+      internalID: -8454407489096391269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e38ad55c85473c0800000000000000
+      internalID: -4362764534312059257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f857a2d267178a90800000000000000
+      internalID: -7311849756804294409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c45514a69051e8e0800000000000000
+      internalID: -1665961779222195002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 49
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16965a15659c0e20800000000000000
+      internalID: 3318191286931330587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 50
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fdc66e8e84a9520800000000000000
+      internalID: 2709558290952281991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 50
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870b0e30a8a5d3710800000000000000
+      internalID: 1674594185268736120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd7ec02a2f0cbc90800000000000000
+      internalID: -7152825434557743652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 50
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7519daaf3d0ca0800000000000000
+      internalID: -6049108721469653143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 50
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8a655b1ce7ab3d0800000000000000
+      internalID: -3190098015602431814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 51
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a9e84cac742dee0800000000000000
+      internalID: -1237848011366819324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 51
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a36fdfe051bb30800000000000000
+      internalID: 4301308110290788361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 51
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddeea0bab22ecb90800000000000000
+      internalID: -7219794967404810787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 51
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3828d810ec7bb2e30800000000000000
+      internalID: 4479876349767287427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 51
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1db5c963dd52bc0800000000000000
+      internalID: -3808394683250650688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 51
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4df6647cf049780800000000000000
+      internalID: -8677293233481460553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 51
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620c84597d97ec70800000000000000
+      internalID: 9000335524758291050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 50
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdfb0c3c58c4ebd0800000000000000
+      internalID: -2601734386243338763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 50
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1911cd161fd1e710800000000000000
+      internalID: 1720901818713708827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 50
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3fa5b370098410800000000000000
+      internalID: 1479714449537317716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 50
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aa68aacd9be6b00800000000000000
+      internalID: 823800139260275204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 50
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957924fd3f2ef7240800000000000000
+      internalID: 4791798065596110681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 50
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c28539052f8a6c0800000000000000
+      internalID: -4131786230229095378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eee018f445a5a90800000000000000
+      internalID: -7324449143520301484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 13
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5362b172a5ff925a0800000000000000
+      internalID: -6545419820738075083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 12
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad462b634f8a8c00800000000000000
+      internalID: 903692194964458916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 12
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562e4a7eb61f4a5f0800000000000000
+      internalID: -746206192486522267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 13
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1532bff575dc8f0800000000000000
+      internalID: -518662312330833464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 12
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf592c79aa904bb0800000000000000
+      internalID: -4953789537384308820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 13
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c7c82bced23f60800000000000000
+      internalID: 8012711651189442197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 13
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7621e00623237d0800000000000000
+      internalID: -2940232218585176106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 13
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102e65acae1879f60800000000000000
+      internalID: 8041038505110331905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 13
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae5edf35253217e0800000000000000
+      internalID: -1796314867265806681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 13
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da61be69235aac690800000000000000
+      internalID: -7581065386025871699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 14
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ae72e7cd24e0a0800000000000000
+      internalID: -6853302396429360539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 14
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863168753fb944e80800000000000000
+      internalID: -8195253952459697304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 15
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6751a4bda9f8fd370800000000000000
+      internalID: 8349550129434989942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 14
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6018ac2481e9990800000000000000
+      internalID: -7377432464441932045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 14
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f181133166063b80800000000000000
+      internalID: -8415531839156813328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 15
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d20b227a302996a0800000000000000
+      internalID: -6442082356581170473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 14
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88141c9359d5f810800000000000000
+      internalID: 1798582579328456843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 14
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce0d570e40dab870800000000000000
+      internalID: 8699494663769099969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 13
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f766028857586ae80800000000000000
+      internalID: -8167694134348323201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 14
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c76746ae190c90800000000000000
+      internalID: -7203192429491011116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 14
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772cbd5562904bb90800000000000000
+      internalID: -7227141441768930697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 13
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcb5d87ed44a01d0800000000000000
+      internalID: -3383816447714804552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Pier_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 14
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf2fd585fa37c0d0800000000000000
+      internalID: -3402686167267725374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
