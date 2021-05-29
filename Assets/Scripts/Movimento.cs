@@ -8,7 +8,7 @@ public class Movimento : MonoBehaviour
     Vector3 change;
     Vector3 last;
     Rigidbody2D rb;
-    Animator animator;
+    public Animator animator;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
