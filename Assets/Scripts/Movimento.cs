@@ -29,7 +29,7 @@ public class Movimento : MonoBehaviour
         {
             last.y = 2*Input.GetAxisRaw("Vertical");
             last.x = 0;
-            }
+        }
         rb.velocity = speed*change;
             
         

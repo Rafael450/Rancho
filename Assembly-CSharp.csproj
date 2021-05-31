@@ -37,7 +37,11 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Camera_Player.cs" />
+     <Compile Include="Assets\Scripts\Inimigo IA\IAPrincipal.cs" />
+     <Compile Include="Assets\Scripts\Inimigo IA\spritechange.cs" />
+     <Compile Include="Assets\Scripts\Inimigo IA\patrol.cs" />
      <Compile Include="Assets\Scripts\Movimento.cs" />
+     <Compile Include="Assets\Scripts\Inimigo IA\Gambiarra.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -694,6 +698,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="NavMeshComponentsEditor.csproj">
+      <Project>{d5b0b5f8-faf8-e1fb-aa10-b6c1da8f8d46}</Project>
+      <Name>NavMeshComponentsEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="NavMeshComponents.csproj">
+      <Project>{f7ead986-bf0d-94e2-2e13-cc37993b5d65}</Project>
+      <Name>NavMeshComponents</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
