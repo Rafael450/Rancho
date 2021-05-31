@@ -19,6 +19,6 @@ public class Gambiarra : MonoBehaviour
     void Update()
     {
         nm.SetDestination(target.position);
-        transform.position = parent.GetComponent<Transform>().position;
+        transform.position = parent.GetComponent<Transform>().position - new Vector3(0,0.7f,0);
     }
 }
