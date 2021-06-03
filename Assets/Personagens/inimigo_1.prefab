@@ -47,6 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   parent: {fileID: 7657895232824692138}
+  alerta: {fileID: 0}
 --- !u!195 &202455735
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -267,6 +268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b37f9db8883c0e545892d8d7b63af55d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  visor: {fileID: 7866298688893084829}
 --- !u!114 &1042650052
 MonoBehaviour:
   m_ObjectHideFlags: 0

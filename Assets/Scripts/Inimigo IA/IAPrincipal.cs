@@ -18,6 +18,7 @@ public class IAPrincipal : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         mode = 0;
         AI.GetComponent<patrol>().enabled=true;
+        
     }
 
     void Update()
@@ -32,6 +33,7 @@ public class IAPrincipal : MonoBehaviour
         }
         if(mode == 1 && AI.GetComponent<Gambiarra>().enabled==false)
         {
+            AI.GetComponent<NavMeshAgent>().SetDestination(transform.position);;
             rb.velocity = Vector3.zero;
             nm.velocity = Vector3.zero;
             AI.GetComponent<Gambiarra>().enabled=true;

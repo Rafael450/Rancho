@@ -23,9 +23,9 @@ public class Gambiarra : MonoBehaviour
         if (delay == 0) 
         {
             GameObject x = Instantiate(alerta,transform.position+new Vector3(0, 2.5f, 0), Quaternion.identity).gameObject;
-            Destroy(x,3f);
+            Destroy(x,1f);
         }
-        if (delay <= 3f)
+        if (delay <= 1f)
         {
             delay += Time.deltaTime;
             return;
