@@ -1,38 +1,39 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class patrol : MonoBehaviour
 {
-    public float speed, startTime;
+    public float startTime;
     private float waitTime;
-    Rigidbody2D rb;
+    NavMeshAgent nm;
     public Transform[] patrolSpots;
+    public GameObject parent;
     int randomS;
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
-        randomS = Random.Range(0, patrolSpots.Length);
-        transform.position = patrolSpots[randomS].position;
+        nm = GetComponent<NavMeshAgent>();
+        nm.updateRotation = false;
+        nm.updateUpAxis = false;
+        randomS = Random.Range(0, patrolSpots.Length-1);
         waitTime = startTime;
     }
 
     void Update()
     {
-        rb.velocity = Vector3.MoveTowards(transform.position, patrolSpots[randomS].position, 1);
+        transform.position = parent.GetComponent<Transform>().position - new Vector3(0,0.7f,0);
+        nm.SetDestination(patrolSpots[randomS].position);
         if(Vector3.Distance(transform.position, patrolSpots[randomS].position) <= 0.1f)
         {
             if(waitTime <= 0)
             {
                 waitTime = startTime;
-                if(randomS == patrolSpots.Length - 1)
-                    randomS = 0;
-                else 
-                    randomS++;
+                randomS = Random.Range(0, patrolSpots.Length-1);
             } 
             else 
             {
-                startTime -= Time.deltaTime;
+                waitTime -= Time.deltaTime;
             }
         }
     }

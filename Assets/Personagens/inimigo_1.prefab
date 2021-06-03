@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 202455733}
   - component: {fileID: 202455734}
   - component: {fileID: 202455735}
+  - component: {fileID: 1493532606538007013}
   m_Layer: 0
   m_Name: AI
   m_TagString: Untagged
@@ -68,6 +69,21 @@ NavMeshAgent:
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &1493532606538007013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 202455732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a270ae30eae0da04cb1c4010b4e39984, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startTime: 4
+  patrolSpots: []
+  parent: {fileID: 7657895232824692138}
 --- !u!1 &7657895232824692138
 GameObject:
   m_ObjectHideFlags: 0
@@ -260,3 +276,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nm: {fileID: 202455735}
+  AI: {fileID: 202455732}
