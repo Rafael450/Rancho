@@ -6,16 +6,25 @@ public class Movimento : MonoBehaviour
 {
     public float speed;
     public GameObject[] xicara;
-    Vector3 change;
-    Vector3 last;
+    public Vector3 change;
+    public Vector3 last;
     Rigidbody2D rb;
     public Animator animator;
-    bool isfourcup;
+    public bool isfourcup;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         isfourcup = true;
+        xicara[0].SetActive(false);
+        xicara[1].SetActive(false);
+        xicara[2].SetActive(false);
+        xicara[3].SetActive(false);
+    }
+    float abs(float n)
+    {
+        if(n >= 0) return n;
+        else return -n;
     }
 
     void Update()
@@ -45,28 +54,28 @@ public class Movimento : MonoBehaviour
             animator.SetFloat("moveX", last.x);
             animator.SetFloat("moveY", last.y);
         }
-        if(last.x == 2 || last.x == 1)
+        if((last.x == 2 && change.y == 0) && isfourcup)
         {
             xicara[0].SetActive(false);
             xicara[1].SetActive(false);
             xicara[2].SetActive(false);
             xicara[3].SetActive(true);
         }
-        if(last.x == -2 || last.x == -1)
+        if((last.x == -2 && change.y == 0) && isfourcup)
         {
             xicara[0].SetActive(false);
             xicara[1].SetActive(false);
             xicara[2].SetActive(true);
             xicara[3].SetActive(false);
         }
-        if(last.y == 2 || last.y == 1)
+        if(((last.y == 2 && change.x == 0) || (abs(last.x) == 2 && change.y == 1)) && isfourcup)
         {
             xicara[0].SetActive(true);
             xicara[1].SetActive(false);
             xicara[2].SetActive(false);
             xicara[3].SetActive(false);
         }
-        if(last.y == -2 || last.y == -1)
+        if(((last.y == -2 && change.x == 0)|| (abs(last.x) == 2 && change.y == -1)) && isfourcup)
         {
             xicara[0].SetActive(false);
             xicara[1].SetActive(true);
