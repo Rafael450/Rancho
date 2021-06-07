@@ -39,11 +39,12 @@
      <Compile Include="Assets\Scripts\Inimigo IA\Gambiarra.cs" />
      <Compile Include="Assets\Scripts\Inimigo IA\visao.cs" />
      <Compile Include="Assets\Scripts\Camera_Player.cs" />
+     <Compile Include="Assets\Scripts\BoolXicara.cs" />
      <Compile Include="Assets\Scripts\Inimigo IA\IAPrincipal.cs" />
      <Compile Include="Assets\Scripts\Inimigo IA\spritechange.cs" />
+     <Compile Include="Assets\Scripts\SceneManagerr.cs" />
      <Compile Include="Assets\Scripts\Inimigo IA\patrol.cs" />
      <Compile Include="Assets\Scripts\Movimento.cs" />
-     <Compile Include="Assets\Scripts\xicara.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

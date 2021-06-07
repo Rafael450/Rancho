@@ -15,7 +15,7 @@ public class Movimento : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        isfourcup = true;
+        isfourcup = false;
         xicara[0].SetActive(false);
         xicara[1].SetActive(false);
         xicara[2].SetActive(false);
