@@ -19,4 +19,7 @@ public class SceneManagerr : MonoBehaviour
     public void BackMenu() {
         SceneManager.LoadScene("StartScene");
     }
+    public void tutorial() {
+        SceneManager.LoadScene("tutorial");
+    }
 }
